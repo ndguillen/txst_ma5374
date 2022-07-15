@@ -61,5 +61,20 @@ Bonus points: 0.5\% extra point per bonus point earned.
 
   * Final: Date TBA
 
+## Course topics
 
-**Final Course Grade**:  Your final numerical grade is placed on a scale of 100. Your final letter grade will be computed from your final numerical grade as follows:
+Linear algebra: everything, everywhere, all at once
+
+Bases, Linear transformations, norms, Matrices, Kernels, Images, matrix norms, Inner products, Matrix transpose
+
+Python, arrays, array manipulation, numpy, matrices, matrix/vector and matrix/matrix multiplication, numpy.linalg solvers
+
+SVD, Diagonalization, Cholesky decomposition, QR decomposition
+
+Least squares
+
+Eigenvectors
+
+Conjugate Gradient Descent
+
+
