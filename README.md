@@ -1,15 +1,15 @@
 # Numerical Linear Algebra
 # MATH 5374 Fall 2022
 
-##Instructor: Nestor Guillen##
-##nestor@txtstate.edu##
+## Instructor: Nestor Guillen##
+## nestor@txtstate.edu##
 
-##Course format
+## Course format
 
 Welcome to Numerical Linear Algebra!. This is an \textbf{online course}, which means lectures and class discussion will take place via Zoom and the forum feature on Canvas.
 
 
-\noindent \textbf{Lectures.} Lectures will be delivered via Zoom. Lectures will be a mixture of live lecture and pre-recorded. The official meeting time for the class is Monday and Wednesdays from 3:30 pm to 4:50 pm. In practice, we will meet ``live'' from 3:30 to 4:20 pm and the remaining 30 mins of the lecture will be pre-recorded (and can be watched at your convenience). The live part of the lecture will be recorded and made available on Canvas for your convenience, alongside with a pdf of the notes from that lecture. 
+**Lectures.** Lectures will be delivered via Zoom. Lectures will be a mixture of live lecture and pre-recorded. The official meeting time for the class is Monday and Wednesdays from 3:30 pm to 4:50 pm. In practice, we will meet ``live'' from 3:30 to 4:20 pm and the remaining 30 mins of the lecture will be pre-recorded (and can be watched at your convenience). The live part of the lecture will be recorded and made available on Canvas for your convenience, alongside with a pdf of the notes from that lecture. 
 
 
 **Office Hours**. (Via Zoom) Monday and Wednesday from 1:30 pm to 2:30 pm, or by appointment (request via email at least one day in advance). 
