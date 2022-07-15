@@ -1,8 +1,8 @@
 # Numerical Linear Algebra
 # MATH 5374 Fall 2022
 
-##Instructor: Nestor Guillen
-##nestor@txtstate.edu
+##Instructor: Nestor Guillen##
+##nestor@txtstate.edu##
 
 ##Course format
 
