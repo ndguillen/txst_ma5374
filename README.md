@@ -1,10 +1,10 @@
 # Numerical Linear Algebra
 # MATH 5374 Fall 2022
 
-##Instructor: Nestor Guillen
-##nestor@txtstate.edu
+## Instructor: Nestor Guillen
+## nestor@txtstate.edu
 
-##Course format
+## Course format
 
 Welcome to Numerical Linear Algebra!.
 
@@ -45,7 +45,7 @@ Bonus points: 0.5% extra point per bonus point earned.
 
 **Problem sets**: These amount to 50% of the final numerical grade and will be due approximately every two weeks. Your lowest problem set grade will be dropped when computing your problem sets average. **Late problem sets will not be accepted save for exceptional circumstances.** If you don't submit a problem set on time you will be given a zero on that problem set. On the other hand you could miss one problem set and still be able to get a perfect final grade. *If you have read this far into the syllabus, please provide write me an email with the subject line 'syllabus!' --and feel free to add any interesting thing you'd like to share in the body of the email, e.g. memes, movie or book recommendations, facts about you, etc (just a blank email is fine too).*
 
-**Grading of Problem Sets**: You will receive graded problem sets/exams a week after they were submitted. I will not be posting solutions to \textbf{all} problem or exams but will aim to post solutions for about half of the problems. You are encouraged to stop by office hours to discuss the solution of any given problem or to discuss in the Forum.
+**Grading of Problem Sets**: You will receive graded problem sets/exams a week after they were submitted. I will not be posting solutions to **all** problem or exams but will aim to post solutions for about half of the problems. You are encouraged to stop by office hours to discuss the solution of any given problem or to discuss in the Forum.
 
 **Bonus points**: Bonus points can be obtained by solving more difficult (optional) problems, such problems will be present in several weekly problems sets and will be denoted with an asterisk: *. In a few instances **additional Bonus Problems will be posted in the Course Forum**. To illustrate the role of Bonus Points, if your final numerical grade (before Bonus Points) is 83% and you earned credit for 14 bonus problems throughout the semester, you would get 14 Bonus Points = 7% points so your final numerical grade will be 90% (corresponding to A). Bonus problems will be more challenging and you will only earn credit for them if the solution is entirely correct (that is, you cannot earn partial Bonus Points).
 
