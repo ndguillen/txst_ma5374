@@ -51,7 +51,7 @@ Bonus points: 0.5% extra point per bonus point earned.
 
 **Submission guidelines**: Your submitted problem sets and exams must be submitted in PDF format. Files should be named as: YourLastName\_ProbSetN.pdf, here N is the corresponding number for the problem set.
 
-**Important dates**: As mentioned earlier, problem sets will be due on Mondays at 11:59 pm. 
+**Important dates**: As mentioned earlier, problem sets will be due on Fridays at 11:59 pm. 
 
   * First problem set due: Friday, September 2nd.
 
