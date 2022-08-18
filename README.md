@@ -61,7 +61,7 @@ Bonus points: 0.5% extra point per bonus point earned.
 
 **Final Course Grade**:  Your final numerical grade is placed on a scale of 100. Your final letter grade will be computed from your final numerical grade as follows
 
-<p style="text-align: center;"> &#8226; A 90-100 &#8226;  B 80-89.9 &#8226; C 70-79.9 &#8226;  D 60-69.9 &#8226;  F 0-59.9 </p>
+<p style="text-align: center;"> A 90-100 &#8226;  B 80-89.9 &#8226; C 70-79.9 &#8226;  D 60-69.9 &#8226;  F 0-59.9 </p>
 
 ## Course topics
 
