@@ -1,3 +1,4 @@
+# Syllabus
 # Numerical Linear Algebra
 # MATH 5374 Fall 2022
 
@@ -31,7 +32,7 @@ You will need access to a computer that can run Python as well as Jupyter Notebo
 
 ## Course evaluation
 	
-**Overview**: There will be weekly problem sets (about 6 total), a midterm, and final exam. These are weighted as follows
+**Overview**: There will be problem sets due approximately every two weeks (about 6 total), a midterm, and final exam. These are weighted as follows
 
 Problem sets: 50%
 
@@ -53,11 +54,11 @@ Bonus points: 0.5% extra point per bonus point earned.
 
 **Important dates**: As mentioned earlier, problem sets will be due on Fridays at 11:59 pm. 
 
-  * First problem set due: Friday, September 2nd.
+  * First problem set due: Friday, September 2nd
 
   * Midterm: Thursday, October 27th
 
-  * Final: Date TBA
+  * Final: Tuesday, December 6th at 8 am
 
 **Final Course Grade**:  Your final numerical grade is placed on a scale of 100. Your final letter grade will be computed from your final numerical grade as follows
 
