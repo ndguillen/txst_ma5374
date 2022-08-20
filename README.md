@@ -5,30 +5,23 @@
 ## Instructor: Nestor Guillen
 ## nestor@txtstate.edu
 
-## Course format
+## Course overview
 
-Welcome to Numerical Linear Algebra!.
+Welcome to Numerical Linear Algebra!. This course deals with numerical algorithms used to solve linear problems. Topics include condition numbers and the numerical stability of linear algorithms; matrix factorizations like the Singular Value Decomposition; the least squares method; iterative algorithms like the conjugate gradient method; and more. We will illustrate such topics by bringing examples of linear problems that arise in applications. The theory will be balanced with exercises involving the implementation of algorithms in Python.
 
-
-**Lectures**. Class meets Tuesdays and Thursdays from 9:30 to 10:50 am. 
+**Lectures time and location**. Class meets Tuesdays and Thursdays from 9:30 to 10:50 am in Derrick 233.
 
 **Office Hours**. Tuesdays and Thursdays from 11 am to noon, or by appointment (request via email at least one day in advance). 
 
-**Forums**. Apart from lectures and office hours, the most important point of interaction for the class will be **the Canvas Discussions page**. If you have a question related to a particular problem set, or a question about a method discussed in a lecture, this should be the first place to share that question. Sometimes I will provide answers to forum questions, or use a question to explain a broader point or a method.
-
-While a Discussion forum is not quite a replacement for the discussions we would have face to face in a classroom, experience with public forums like [Stack Exchange](https://en.wikipedia.org/wiki/Stack_Exchange) and [MathOverflow](https://en.wikipedia.org/wiki/MathOverflow) suggests this can be a great learning tool in their own right.
+**Forums**. Apart from lectures and office hours, an important point of interaction for the class will be **the Canvas Discussions page**. If you have a question related to a particular problem set, or a question about a method discussed in a lecture, this should be the first place to share that question. Sometimes I will provide answers to forum questions, or use a question to explain a broader point or a method. Experience with public forums like [Stack Exchange](https://en.wikipedia.org/wiki/Stack_Exchange) and [MathOverflow](https://en.wikipedia.org/wiki/MathOverflow) suggests this can be a great learning tool in their own right.
 
 **Emails**. I will get back to any email within 72 hours. Preferably, questions about the content of the class should be posted on the course forum, with email used for individual concerns or questions -- but this is not a strict rule. **Please make sure to start the subject line of your emails with 'MATH5374', so that I can reply promptly.**
-
-## Course overview
-
-This course deals with numerical algorithms used to solve linear problems. Topics include condition numbers and the numerical stability of linear algorithms; matrix factorizations like the Singular Value Decomposition; the least squares method; iterative algorithms like the conjugate gradient method; and more. We will illustrate such topics by bringing examples of linear problems that arise in applications. The theory will be balanced with exercises involving the implementation of algorithms in Python.
 
 **Prerequisites**. Linear algebra at the level of Math 3377. Basic programming skills, as well as familiarity with real analysis are helpful additions but not strictly necessary for the course.
 
 **Course materials**. We will follow the linear algebra chapters of [Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book) by Solomon and parts of [Numerical Linear Algebra](https://people.maths.ox.ac.uk/trefethen/text.html) by Trefethen and Bau.
 
-You will need access to a computer that can run Python as well as Jupyter Notebooks -- more information on this will be given in class. A helpful resource on Python is the [SciPy Lectures](https://scipy-lectures.org/_downloads/ScipyLectures-simple.pdf), available for free online. 
+You will need access to a computer that can run Python as well as Jupyter Notebooks -- more information on this will be given in class. A helpful resource on Python is the [SciPy Lectures](https://scipy-lectures.org/_downloads/ScipyLectures-simple.pdf). 
 
 ## Course evaluation
 	
@@ -64,7 +57,7 @@ Bonus points: 0.5% extra point per bonus point earned.
 
 <p style="text-align: center;"> A 90-100 &#8226;  B 80-89.9 &#8226; C 70-79.9 &#8226;  D 60-69.9 &#8226;  F 0-59.9 </p>
 
-## Course topics
+## Course topics (tentative)
 
   * Basics about scientific computing and numerical analysis
   * Norms, of all kinds, and the notion of a condition number
