@@ -40,7 +40,9 @@ Show that, given any $x \in \mathbb{R}^n$
 $$ \|Ax\|_2 \leq \|x\|_1$$
 
 6. Consider the following quadratic polynomial of three variables
+
 $$ p(x_1,x_2,x_3) = x_1^2 + 2x_1x_2-4x_2x_3 + 3x_2^2-5x_3^2$$
+
 Find a $3\times 3$ symmetric matrix $A$ such that if $x^\bot = (x_1,x_2,x_3)$ then
 $$ p(x_1,x_2,x_3) = (Ax,x)$$
 Can there be more than one such matrix $A$?
@@ -57,5 +59,5 @@ Can there be more than one such matrix $A$?
     - Then, let $\|\cdot\|_{\alpha}$ and $\|\cdot\|_\beta$ be two different norms in $V$, and show that
 $$\inf \limits_{\|x\|_\beta =1} \|x\|_\alpha > 0 \;\text{ and } \sup \limits_{\|x\|_\beta = 1} \|x\|_\alpha <\infty$$
 Conclude that for this pair of norms one can find constants $c$ and $C$ such that for any $x \in V$,
-$$ c\|x\|_\alpha \leq \|x\|_\beta \leq C \|x\|_\alpha$$ 
+$$ c\|x\|_\alpha \leq \|x\|_\beta \leq C \|x\|_\alpha$$  
 
