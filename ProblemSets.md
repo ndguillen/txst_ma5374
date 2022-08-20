@@ -16,7 +16,7 @@ Problem Set 1
 1. Set up Python as well as Jupyter on your computer. Make sure you can run the first notebook (this requires numpy, pyplot, and scipy).
 2. If $x \in \mathbb{R}^n$, show the following inequalities hold
 
-$\|x\|_\infty \leq \|x\|_2$
+$$\|x\|_\infty \leq \|x\|_2$$
 
 $$\begin{align}
 Then,\ (x+z)+t & = x+(z+t)\ (\because Rule2) \\
