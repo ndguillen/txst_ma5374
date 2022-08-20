@@ -18,6 +18,12 @@ Problem Set 1
 
 $\|x\|_\infty \leq \|x\|_2$
 
+$$\begin{align}
+Then,\ (x+z)+t & = x+(z+t)\ (\because Rule2) \\
+& = x+0_V \\
+& = x\ (\because Rule3) \\
+\end{align}$$
+
 Some examples to learn about numerical instability (use some ill-condition problems)
 
 
